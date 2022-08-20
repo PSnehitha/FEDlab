@@ -1,0 +1,18 @@
+body{
+    margin:1 ;
+    
+}
+.cont{
+     
+    border: 8px solid rgb(14,14,58);  
+    padding: 10px;  
+    margin: auto;
+    width:25%;
+}
+h2{
+    color:darkblue;
+}
+#em{
+    color:darkblue ;
+    width:9px;
+}
